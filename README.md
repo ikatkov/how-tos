@@ -1,1 +1,1 @@
-# Random collection of learnings
+# A random collection of learnings
